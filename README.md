@@ -1,2 +1,2 @@
 # Front-End-Projects
-Learning to become a front-end developer
+If I am ever interested in FE projects
